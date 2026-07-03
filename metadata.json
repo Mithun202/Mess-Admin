@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BuildStart",
+  "description": "Effortlessly launch and manage your next construction or development project with this streamlined, foundational building tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
